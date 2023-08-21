@@ -1,5 +1,7 @@
 ### Hi there I'm Amirhossein Heydari👋
 
+<img align="right" height="250" width="375" alt="" src="https://github.com/AHGh1386/AHGh1386/blob/main/coder.gif" />
+
 🌱 I’m currently learning website full stack
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <br>
