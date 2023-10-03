@@ -25,7 +25,7 @@
                                                                                 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 
-![Amirhossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHossein12&show_icons=true
+![Amirhossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHossin12&show_icons=true
 )
 
 
